@@ -27,9 +27,3 @@ six>=1.14
 joblib
 memoized-property
 termcolor
-
-
-git+ssh://git@github.com/AmaurySalles/mlproject2.git
-git+ssh://git@github.com/arthur12108/yolo.git
-git+ssh://git@github.com/ebettane/elliotpackage.git
-git+ssh://git@github.com/MargueriteSzabo/margueriteproject.git
