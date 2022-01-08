@@ -27,3 +27,9 @@ six>=1.14
 joblib
 memoized-property
 termcolor
+
+
+pip install git+ssh://git@github.com/AmaurySalles/mlproject2
+pip install git+ssh://git@github.com/arthur12108/yolo
+pip install git+ssh://git@github.com/ebettane/elliotpackage
+pip install git+ssh://git@github.com/MargueriteSzabo/margueriteproject
